@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="159" MadCap:lastWidth="661">
+    <head>
+        <script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-68953122-1', 'auto', {allowLinker: true});
+			ga('require', 'linker');
+			ga('linker:autoLink', ['magento.com', 'magentocommerce.com', 'enterprise.magento.com', 'imagine.magento.com', 'magentolive.com', 'community.magento.com', 'smallbusiness.magento.com', 'marketplace.magento.com',]);
+			ga('send', 'pageview');
+
+		</script>
+    </head>
+    <body>
+        <div class="searchBarTablet">
+            <MadCap:searchBarProxy data-mc-skin="/Project/Skins/SearchBar.flskn" />
+        </div>
+        <div class="toobarButtons">
+            <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/Toolbar.flskn" />
+        </div>
+        <div class="breadcrumbProxy">
+            <MadCap:breadcrumbsProxy style="z-index:1010;" />
+        </div>
+        <div class="productVersion"><span class="ProdVer"><MadCap:variable name="MyVariables.Product" />, <MadCap:variable name="MyVariables.Release" /></span>
+        </div>
+        <div class="bodyProxy">
+            <MadCap:bodyProxy />
+        </div>
+        <div class="miniTOCProxy" style="margin-top: 21px; line-height: 115%;">
+            <MadCap:miniTocProxy style="mc-toc-depth: 4;" />
+        </div>
+        <div class="footer">
+            <br style="clear:both;" />
+            <br style="clear:both;" />
+            <div class="floatRightFinePrint"><MadCap:variable name="MyVariables.Copyright-short version" />,&#160;<a href="http://magento.com/" target="_blank" title="Magento, Inc." alt="Magento, Inc.">Magento, Inc.</a> All rights reserved.&#160;</div>
+        </div>
+    </body>
+</html>

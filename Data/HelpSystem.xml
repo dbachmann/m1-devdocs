@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebHelpSystem DefaultUrl="index.html" Toc="Data/Toc.js" Index="Data/Index.js" Concepts="Data/Concepts.js" BrowseSequence="Data/BrowseSequence.js" Glossary="Data/Glossary.js" SearchDatabase="Data/Search.js" Alias="Data/Alias.xml" Synonyms="Data/Synonyms.xml" SearchFilterSet="Data/Filters.js" SearchUrl="Search.html" SkinName="Mage2" Skins="Mage2,Mage2_old" BuildTime="7/21/2016 11:45:55 AM" BuildVersion="11.1.2.31113" TargetType="WebHelp2" SkinTemplateFolder="Skin/" InPreviewMode="false" MoveOutputContentToRoot="true" MakeFileLowerCase="false" UseCustomTopicFileExtension="true" CustomTopicFileExtension="html" PreventExternalUrls="false" EnableResponsiveOutput="true" IncludeGlossarySearchResults="true" ResultsPerPage="20">
+    <CatapultSkin Version="2" SkinType="WebHelp2" ComponentType="MasterPage" TemplateName="Fluid" Comment="HTML5 Top Navigation skin" EnableResponsiveOutput="True" Name="Mage2">
+        <WebHelpOptions NavigationPanePosition="Left" TopMenuDepth="4" />
+    </CatapultSkin>
+    <CatapultSkin Version="2" SkinType="WebHelp2" ComponentType="MasterPage" TemplateName="Fluid" Comment="HTML5 Top Navigation skin" EnableResponsiveOutput="True" Name="Mage2_old">
+        <WebHelpOptions NavigationPanePosition="Left" TopMenuDepth="3" />
+    </CatapultSkin>
+</WebHelpSystem>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="12" MadCap:lastWidth="1379">
+    <head><title>Magento Community Edition 2.1 User Guide</title>
+        <link rel="shortcut icon" href="http://magento.com/sites/default/files/Magento_Favicon_64x64.ico" type="image/vnd.microsoft.icon" />
+        <link rel="icon" href="http://magento.com/sites/default/files/Magento_Favicon_64x64.ico" type="image/vnd.microsoft.icon" />
+    </head>
+    <body>
+        <div class="bodyProxy" style="width:100%;">
+            <MadCap:bodyProxy />
+        </div>
+    </body>
+</html>

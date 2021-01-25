@@ -1,0 +1,500 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: OverviewBox;
+	border-collapse: collapse;
+	border: 1px solid #7b756b;	
+	max-id: 5;
+	cell-padding-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	cell-padding: 10px;
+	page-break-inside: avoid;
+	background-color: #ffffff;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 4;
+	name: Column2;
+	size: 100%;
+	text-align: left;
+	vertical-align: top;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	id: 5;
+	name: Header1;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	font-weight: normal;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	cell-padding-top: 10px;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-OverviewBox
+{
+	border-collapse: collapse;
+	background-color: #ffffff;
+	border: 1px solid #7b756b;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	page-break-inside: avoid;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-OverviewBox-Column-Column2
+{
+	width: 100%;
+}
+
+.TableStyle-OverviewBox-Head-Header1
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadI-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadI-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadE-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadE-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadF-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadF-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadH-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadH-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadD-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadD-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadC-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadC-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadB-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadB-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadA-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadA-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-HeadG-Column2-Header1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-HeadG-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootI-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootI-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootE-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootE-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootF-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootF-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootH-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootH-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootD-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootD-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootC-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootC-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootB-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootB-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootA-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootA-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-FootG-Column2-
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-FootG-Column2- p
+{
+	
+}
+
+.TableStyle-OverviewBox-Body-Body1
+{
+	
+}
+
+.TableStyle-OverviewBox-BodyI-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyI-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyE-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyE-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyF-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyF-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyH-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyH-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyD-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyD-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyC-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyC-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyB-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyB-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyA-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyA-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-OverviewBox-BodyG-Column2-Body1
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	padding-top: 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.TableStyle-OverviewBox-BodyG-Column2-Body1 p
+{
+	font-weight: normal;
+}
+
+

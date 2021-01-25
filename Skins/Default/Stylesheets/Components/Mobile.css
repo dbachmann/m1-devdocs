@@ -1,0 +1,60 @@
+/*<meta />*/
+
+@media only screen and (max-width: 488px)
+{
+	.search-bar
+	{
+		width: 100%;
+	}
+
+	.buttons._Skins_TopicToolBar
+	{
+		display: block;
+	}
+
+	._Skins_TopicToolBar .button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button.collapse-all-button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button.current-topic-index-button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button.expand-all-button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button.next-topic-button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button.previous-topic-button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button.print-button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button.remove-highlight-button
+	{
+		
+	}
+
+	._Skins_TopicToolBar .button-separator
+	{
+		
+	}
+}
+

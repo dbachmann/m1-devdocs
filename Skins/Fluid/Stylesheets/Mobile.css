@@ -1,0 +1,271 @@
+/*<meta />*/
+
+/* @media only screen and (max-width: 1135px) */
+@media only screen and (max-width: 768px)
+{	
+	div.bodyProxy
+	{
+		width: 100% !important;
+		margin-top: 0px;
+	}
+	
+	h1.mainTitle
+	{
+		margin-top:0px;
+	}
+	
+	div.LandingPageTitle
+	{
+		width: 100% !important;
+	}
+		
+	div.Next
+	{
+		display: block !important;
+		position: relative !important;
+		float: right; 
+		top: 580px; 
+		margin-top:20px !important;
+		margin-right: -10px !important;
+		padding-top: 0px;
+		width: 55px;
+	}
+
+	div.toolbarWrapper
+	{
+		/* margin-right:60px; */
+		margin-right:-8px;
+	}
+
+	div.mainTOCProxy
+	{
+		width: 100% !important;
+	}
+	div.tileLft
+	{
+		width: 100% !important;
+	}
+	
+	div.MobileOnly
+	{
+		display: block;
+	}
+	
+	div.MiniTOCTop
+	{
+		display: block !important;
+		visibility: visible;
+		width:100%;
+	}
+	
+	div.MCMiniTocBox_0
+	{
+		display: block !important;
+		visibility: visible;
+		width:100% !important;
+	}
+	
+	div.miniTOCProxy
+	{
+		display: block !important;
+		visibility: visible;
+		width:100% !important;
+	}
+	
+	div.desktopOnly
+	{
+		display: none;
+	}
+	
+	div.logoContainer
+	{
+		float:left;
+	}
+	
+	nav.tab-bar
+	{
+		background: #ffffff url('Images/header-bg-2.png') repeat center top;
+		background: url('Images/header-bg-2.png') repeat center top, -moz-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+		background: url('Images/header-bg-2.png') repeat center top, -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#ffffff));
+		background: url('Images/header-bg-2.png') repeat center top, -webkit-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+		background: url('Images/header-bg-2.png') repeat center top, -o-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+		background: url('Images/header-bg-2.png') repeat center top, -ms-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+		background: url('Images/header-bg-2.png') repeat center top, linear-gradient(top, #ffffff 0%,#ffffff 100%);
+		-pie-background: url('Skins/Fluid/Stylesheets/Images/header-bg-2.png') repeat center top, linear-gradient(#ffffff, #ffffff);
+	}
+
+	.tab-bar-section a.logo
+	{
+		width: 155px;
+		height: 66px;
+		position: relative;
+		margin-left: 70%;
+		background: transparent url('Images/magento-logo-wht.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/magento-logo-wht.png') no-repeat center center;
+	}
+
+	.search-submit
+	{
+		height: 66px;
+		width: 66px;
+		background: #c14800 url('Images/MobileSearchIcon.png') no-repeat center center;
+		background: url('Images/MobileSearchIcon.png') no-repeat center center, -moz-linear-gradient(top, #c14800 0%, #c14800 100%);
+		background: url('Images/MobileSearchIcon.png') no-repeat center center, -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c14800), color-stop(100%,#c14800));
+		background: url('Images/MobileSearchIcon.png') no-repeat center center, -webkit-linear-gradient(top, #c14800 0%, #c14800 100%);
+		background: url('Images/MobileSearchIcon.png') no-repeat center center, -o-linear-gradient(top, #c14800 0%,#c14800 100%);
+		background: url('Images/MobileSearchIcon.png') no-repeat center center, -ms-linear-gradient(top, #c14800 0%,#c14800 100%);
+		background: url('Images/MobileSearchIcon.png') no-repeat center center, linear-gradient(top, #c14800 0%,#c14800 100%);
+		-pie-background: url('Skins/Fluid/Stylesheets/Images/MobileSearchIcon.png') no-repeat center center, linear-gradient(#c14800, #c14800);
+	}
+
+	.search-filter
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		height: 66px;
+	}
+
+	.search-input
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+	.right-off-canvas-menu
+	{
+		background-position: top center;
+	}
+
+	.right-off-canvas-menu ul ul
+	{
+		background-position: top center;
+	}
+
+	.left-off-canvas-menu
+	{
+		background-position: top center;
+	}
+
+	.left-off-canvas-menu ul ul
+	{
+		background-position: top center;
+	}
+
+	.tab-bar-section.middle > div
+	{
+		min-height: 66px;
+	}
+
+	nav.tab-bar .row.outer-row
+	{
+		
+	}
+		
+	.tab-bar .menu-icon span
+	{
+		height: 48px;
+		width: 48px;
+		display: block;
+		top: -39px;
+		position:absolute;
+		background: transparent url('Images/Menu.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+	}
+
+	.row.outer-row
+	{
+		max-width: 1135px;
+	}
+
+	.main-section > .row.outer-row
+	{
+		max-width: 1135px;
+	}
+
+	ul.off-canvas-list li a
+	{
+		
+	}
+
+	ul.off-canvas-list li.back > a
+	{
+		
+	}
+
+	ul.off-canvas-list li a:hover
+	{
+		
+	}
+
+	ul.off-canvas-list li.back > a:hover
+	{
+		
+	}
+
+	.menu-icon a span
+	{
+		background: transparent url('Images/Menu.png');
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png');
+	}
+
+	nav.tab-bar .menu-icon
+	{
+		left: url('Images/Menu.png');
+	}
+	
+
+	.row.nav-search
+	{
+		display: none;
+		margin-top: 66px;
+	}
+
+	.search-bar
+	{
+		width: 100%;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	.search-field
+	{
+		height: 66px;
+		padding-right: 116px;
+	}
+
+	.search-filter-content
+	{
+		top: 66px;
+	}
+
+	.search-filter.open
+	{
+		
+	}
+
+	.search-filter.selected
+	{
+		
+	}
+
+	.search-filter-content ul li:hover
+	{
+		
+	}
+
+	.search-field::-webkit-input-placeholder
+	{
+		
+	}
+
+	.search-field::-moz-placeholder
+	{
+		
+	}
+
+	.search-filter-wrapper
+	{
+		right: 66px;
+	}
+}
+
